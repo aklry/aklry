@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm aklry</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
+- 📫 How to reach me **3265242862@qq.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
