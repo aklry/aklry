@@ -1,5 +1,3 @@
-![:aklry](https://count.getloli.com/get/@:aklry?theme=gelbooru-h)
-
 <h1 align="center">Hi 👋, I'm aklry</h1>
 <h3 align="center">一个立志成为全栈开发工程师的前端开发工程师</h3>
 
