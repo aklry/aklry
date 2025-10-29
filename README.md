@@ -1,14 +1,66 @@
-<h1 align="center">Hi 👋, I'm aklry</h1>
-<h3 align="center">一个立志成为全栈开发工程师的前端开发工程师</h3>
+<div align="center">
+  <h1>Hi 👋, I'm aklry</h1>
+  <h3>一个立志成为全栈开发工程师的前端开发工程师</h3>
+  <p>
+    <a href="https://github.com/aklry" target="_blank" rel="noreferrer">
+      <img src="https://komarev.com/ghpvc/?username=aklry&style=for-the-badge&color=brightgreen" alt="profile views" />
+    </a>
+  </p>
+</div>
 
+---
 
-<h3 align="left">目前擅长</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## 🙋‍♂️ 关于我
 
-<h3 align="left">即将学习</h3>
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🔭 专注于构建既美观又高性能的前端体验，并逐步拓展后端能力。
+- 💡 喜欢探索工程化与可维护性的最佳实践，持续提升团队效率。
+- 🌱 正在系统学习 Node.js 与 React，迈向真正的全栈开发。
+- 🤝 乐于与社区分享经验，积极参与开源与技术交流。
+- 📫 欢迎在 [Issues](https://github.com/aklry/aklry/issues) 中与我交流或讨论学习话题。
 
-[![aklry's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklry)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ 技术栈
 
-[![aklry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aklry&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 目前擅长
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="48" height="48" />
+  </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="48" height="48" />
+  </a>
+</p>
 
+### 即将学习
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub 数据
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aklry&show_icons=true&theme=transparent&hide_border=true" alt="aklry's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklry&layout=compact&theme=transparent&hide_border=true" alt="aklry's top languages" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aklry&theme=dracula&hide_border=true" alt="aklry's GitHub activity graph" width="100%" />
+</div>
